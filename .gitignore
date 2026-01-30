@@ -27,8 +27,8 @@ Thumbs.db
 coverage/
 .cache/
 
-# Optional lock files
-package-lock.json
+# Lock files
+# Keep package-lock.json committed for reproducible installs
 
 # Local development
 /local.env
